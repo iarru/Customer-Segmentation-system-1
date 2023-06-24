@@ -6,17 +6,6 @@ who are the most valuable customers of the company
 what kinds of customers does the company have
 This can be used for targeted marketing and other marketing strategies.
 Sometimes it can even reveal a potential white space in the market place which no company has yet occupied. Well we can get creative here.Preview
-
-Code
-
-Blame
-20 lines (20 loc) · 2.05 KB
-customer-segmentation-python
-This project applies customer segmentation to the customer data from a company and derives conclusions and data driven ideas based on it.
-
-Dataset
-This data set is the customer data of a online super market company Ulabox. The data set is available in this link https://github.com/ulabox/datasets
-
 Customer segmentation
 In customer segmentation we categorize similar customers together in the same cluster and analyse them. It can reveal information like:
 
